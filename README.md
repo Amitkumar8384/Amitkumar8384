@@ -1,9 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8FFF,100:6F4FFF&height=200&section=header&text=Amit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 # 👋 Hi, I'm Amit Kumar
 
 💻 **Website Designer | Frontend Developer | JavaScript Learner**
 
-I build modern, responsive and user-friendly websites.
-Currently improving my **JavaScript and frontend development skills** by building real-world projects.
+I build modern, responsive and user-friendly websites using HTML, CSS and JavaScript.
 
 ---
 
@@ -12,11 +13,11 @@ Currently improving my **JavaScript and frontend development skills** by buildin
 * 💼 Working as a **Website Designer**
 * 🌱 Currently learning **Advanced JavaScript**
 * 🎯 Goal: Become a **Full Stack Developer**
-* ⚡ Love building **clean UI and responsive websites**
+* ⚡ Love creating **clean UI and fast websites**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
@@ -30,23 +31,35 @@ Currently improving my **JavaScript and frontend development skills** by buildin
 
 ### 🌐 Freshnut E-commerce Website
 
-Responsive e-commerce website with product listing and cart system.
+Responsive e-commerce website with dynamic product listing and cart system.
 
 ### 🌦 Weather App
 
-Weather application using API to show real-time weather data.
+Weather application using API for real-time weather data.
 
 ### 🎨 Developer Portfolio
 
-Modern portfolio website with animations and responsive design.
+Modern developer portfolio with animations and responsive layout.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitkumar8384\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitkumar8384\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumar8384\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+
+![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amitkumar8384\&theme=tokyo-night)
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://amitkumar8384.github.io/My_Portfolio/
 
 ---
 
@@ -59,4 +72,6 @@ https://github.com/Amitkumar8384
 
 ---
 
-⭐ **If you like my projects, give them a star!**
+⭐ If you like my projects, give them a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4FFF,100:4F8FFF&height=120&section=footer"/>
