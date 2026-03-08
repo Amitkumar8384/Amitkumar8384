@@ -75,3 +75,8 @@ https://github.com/Amitkumar8384
 ⭐ If you like my projects, give them a star!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4FFF,100:4F8FFF&height=120&section=footer"/>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Amitkumar8384/Amitkumar8384/output/github-contribution-grid-snake.svg">
+</p>
