@@ -16,7 +16,9 @@ I build modern, responsive and user-friendly websites using HTML, CSS and JavaSc
 * ⚡ Love creating **clean UI and fast websites**
 
 ---
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Amitkumar8384/Amitkumar8384/output/github-contribution-grid-snake.svg">
+</p>
 ## 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
@@ -76,7 +78,3 @@ https://github.com/Amitkumar8384
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4FFF,100:4F8FFF&height=120&section=footer"/>
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Amitkumar8384/Amitkumar8384/output/github-contribution-grid-snake.svg">
-</p>
