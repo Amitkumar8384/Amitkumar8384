@@ -20,6 +20,7 @@ I build modern, responsive and user-friendly websites using HTML, CSS and JavaSc
 <img src="https://raw.githubusercontent.com/Amitkumar8384/Amitkumar8384/output/github-contribution-grid-snake.svg">
 </p>
 ## 🛠 Tech Stack
+<img src="https://komarev.com/ghpvc/?username=Amitkumar8384&label=Profile%20views&color=blue&style=flat" />
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
