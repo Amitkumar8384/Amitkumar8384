@@ -267,7 +267,7 @@ Authentication
 Practical Web Applications
 ```
 
----
+
 
 ---
 
